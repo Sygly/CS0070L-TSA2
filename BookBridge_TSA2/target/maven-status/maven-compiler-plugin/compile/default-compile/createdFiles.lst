@@ -1,0 +1,10 @@
+com\mycompany\bookbridge_tsa2\GuestMember.class
+com\mycompany\bookbridge_tsa2\Member.class
+com\mycompany\bookbridge_tsa2\Reservation.class
+com\mycompany\bookbridge_tsa2\StudentMember.class
+com\mycompany\bookbridge_tsa2\FacultyMember.class
+com\mycompany\bookbridge_tsa2\LibraryService.class
+com\mycompany\bookbridge_tsa2\BookBridgeApp.class
+com\mycompany\bookbridge_tsa2\Renewable.class
+com\mycompany\bookbridge_tsa2\LibraryBook.class
+com\mycompany\bookbridge_tsa2\LoanRecord.class
